@@ -1,5 +1,5 @@
 <item>
-  <title>Android v2.0.8</title>
+  <title>Android v2.0.9</title>
   <description>
     • Fixed a bug related to background music (BGM).
     • Fixed an ad display bug on the “Try Again” screen.
@@ -7,16 +7,16 @@
     • Added app update notification feature.
     • Added UI tutorial tips.
   </description>
-  <pubDate>Wed, 23 May 2025 12:00:00 +0000</pubDate>
+  <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
   <enclosure
     url="https://play.google.com/store/apps/details?id=com.elipair.blockdrag"
-    sparkle:version="2.0.8"
+    sparkle:version="2.0.9"
     sparkle:os="android"
   />
 </item>
 
 <item>
-  <title>iOS v2.0.8</title>
+  <title>iOS v2.0.9</title>
   <description>
     • Fixed a bug related to background music (BGM).
     • Fixed an ad display bug on the “Try Again” screen.
@@ -24,10 +24,10 @@
     • Added app update notification feature.
     • Added UI tutorial tips.
   </description>
-  <pubDate>Wed, 23 May 2025 12:00:00 +0000</pubDate>
+  <pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
   <enclosure
     url="https://apps.apple.com/kr/app/block-drag/id6745786081"
-    sparkle:version="2.0.8"
+    sparkle:version="2.0.9"
     sparkle:os="ios"
   />
 </item>
